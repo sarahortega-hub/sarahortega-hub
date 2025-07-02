@@ -10,6 +10,7 @@ Welcome to my portfolio where I showcase my projects.
 - **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
 
 <br/>
+
 ## 📌Table of Contents
 - [Python](#python)
 - [SQL](#sql)
