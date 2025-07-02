@@ -20,8 +20,8 @@ Welcome to my portfolio where I showcase my projects.
 | Project Link | Summary | xx |    
 |---|---|---|
 | 🗺️ [Visa Approval Facilitation](https://github.com/sarahortega-hub/sarahortega-hub/blob/main/EasyVisa%20.ipynb) |  Analyze the data and, with the help of a classification model, facilitate the process of visa approvals and recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status. | tools |   
+|🏢[INN Hotels](https://github.com/sarahortega-hub/sarahortega-hub/blob/main/INNHotels%20.ipynb)|Analyze the data of INN Hotels to find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.|tools|
 
-
-
+# SQL
 
 
