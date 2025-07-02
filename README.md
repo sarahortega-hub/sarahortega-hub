@@ -1,9 +1,9 @@
 ## Hello, I'm Sarah 👋 
 I am currently finishing a post-graduate program for Data Science and Business Analytics.
 
-My portfolio where I showcase my projects can be found [HERE](xx)
+> My portfolio where I showcase my projects can be found [HERE](xx)
 
-
+---
 🛠️ **Current Toolbox:**
 - **Programming Languages:** Python, SQL
 - **Data Analysis & Statistics:** Regression Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Hypothesis Testing
