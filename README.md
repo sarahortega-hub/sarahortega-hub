@@ -14,7 +14,6 @@ I’m always looking for resources and expertise to expand my knowledge base �
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/sarah-ortega-b60150165/)
 
-**sarahortega-hub/sarahortega-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
