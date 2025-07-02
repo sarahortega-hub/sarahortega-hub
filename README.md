@@ -5,12 +5,12 @@ My portfolio where I showcase my projects can be found [HERE](xx)
 
 <br/>
 
-🛠️ **Current Tools:**
-- **Programming Languages:** Python, SQL
-- **Data Analysis & Statistics:** Regression Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Hypothesis Testing
-- **Machine Learning:** Supervised & Unsupervised Learning, Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Model Evaluation (Accuracy, Precision, Recall, ROC-AUC), Hyperparameter Tuning
-- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
+### 🛠️ **Current Tools:**
+  - **Programming Languages:** Python, SQL
+  - **Data Analysis & Statistics:** Regression Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Hypothesis Testing
+  - **Machine Learning:** Supervised & Unsupervised Learning, Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Model Evaluation (Accuracy, Precision, Recall, ROC-AUC), Hyperparameter   Tuning
+  - **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+  - **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
 
 <br/>
 
