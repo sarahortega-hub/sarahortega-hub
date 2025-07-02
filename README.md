@@ -10,8 +10,19 @@ Welcome to my portfolio where I showcase my projects.
 - **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
 
 <br/>
+## 📌Table of Contents
+- [Python](#python)
+- [SQL](#sql)
+- [Generative AI](#generative_ai)
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/sarah-ortega-b60150165/)
+# Python
+
+| Project Link | Summary | xx |    
+|---|---|---|
+
+| 🏢 []() |  summary | pandas, matplotlib |   
+
+
 
 
 
