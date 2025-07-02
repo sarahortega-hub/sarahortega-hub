@@ -19,7 +19,7 @@ Welcome to my portfolio where I showcase my projects.
 
 | Project Link | Summary | xx |    
 |---|---|---|
-| 🏢 []() |  summary | pandas, matplotlib |   
+| 🗺️ [Visa Approval Facilitation](https://github.com/sarahortega-hub/sarahortega-hub/blob/main/EasyVisa%20.ipynb) |  Analyze the data and, with the help of a classification model, facilitate the process of visa approvals and recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status. | tools |   
 
 
 
