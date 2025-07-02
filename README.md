@@ -3,7 +3,8 @@ I am currently finishing a post-graduate program for Data Science and Business A
 
 My portfolio where I showcase my projects can be found [HERE](xx)
 
-🛠️ **Current Toolbox**
+
+🛠️ **Current Toolbox:**
 - **Programming Languages:** Python, SQL
 - **Data Analysis & Statistics:** Regression Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Hypothesis Testing
 - **Machine Learning:** Supervised & Unsupervised Learning, Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Model Evaluation (Accuracy, Precision, Recall, ROC-AUC), Hyperparameter Tuning
