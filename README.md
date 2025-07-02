@@ -1,6 +1,4 @@
 ## Hello, I'm Sarah 👋 
-
-<!--
 I am currently finishing a post-graduate program for Data Science and Business Analytics.
 
 My portfolio where I showcase my projects can be found [HERE](xx)
@@ -17,5 +15,6 @@ I’m always looking for resources and expertise to expand my knowledge base �
 Connect with me: [LinkedIn](https://www.linkedin.com/in/sarah-ortega-b60150165/)
 
 **sarahortega-hub/sarahortega-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 -->
