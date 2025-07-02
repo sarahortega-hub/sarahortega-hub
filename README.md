@@ -12,7 +12,11 @@ My portfolio where I showcase my projects can be found [HERE](xx)
 - **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
 - **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
 
+<br/>
+
 I’m always looking for resources and expertise to expand my knowledge base 🔎
+
+<br/>
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/sarah-ortega-b60150165/)
 
