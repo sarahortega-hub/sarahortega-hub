@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Sarah 👋 
 
 <!--
 **sarahortega-hub/sarahortega-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently finishing a post-graduate program for Data Science and Business Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My portfolio where I showcase my projects can be found [HERE](xx)
+
+🛠️ **Current Toolbox**
+- **Programming Languages:** Python, SQL
+- **Data Analysis & Statistics:** Regression Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Hypothesis Testing
+- **Machine Learning:** Supervised & Unsupervised Learning, Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Model Evaluation (Accuracy, Precision, Recall, ROC-AUC), Hyperparameter Tuning
+- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab, Excel
+
+I’m always looking for resources and expertise to expand my knowledge base 🔎
+
+Connect with me: [LinkedIn](https://www.linkedin.com/in/sarah-ortega-b60150165/)
+
+
 -->
