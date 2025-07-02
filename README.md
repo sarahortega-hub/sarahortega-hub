@@ -19,7 +19,6 @@ Welcome to my portfolio where I showcase my projects.
 
 | Project Link | Summary | xx |    
 |---|---|---|
-
 | 🏢 []() |  summary | pandas, matplotlib |   
 
 
