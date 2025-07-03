@@ -1,5 +1,5 @@
 ## Hi, I'm Sarah 👋 
-I am currently finishing a post-graduate program for Data Science and Business Analytics.
+I'm currently finishing a post-graduate program for Data Science and Business Analytics.
 
 Welcome to my portfolio where I showcase my projects.
 
