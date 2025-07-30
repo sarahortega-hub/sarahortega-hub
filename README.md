@@ -3,15 +3,11 @@ I'm currently finishing a post-graduate program for Data Science and Business An
 
 Welcome to my portfolio where I showcase my projects.
 
-**Programming & Data Manipulation**: Python, SQL, Pandas, NumPy
-
-**Data Visualization & Reporting**: Tableau, Power BI, Excel (Pivot Tables, Charts), Matplotlib & Seaborn
-
-**Statistical & Analytical Techniques:** Data Wrangling & Preprocessing, EDA, Feature Engineering, Regression Analysis & Hypothesis Testing, Missing Value Imputation
-
-**Machine Learning & AI:** Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Ensemble Methods (Random Forest, XGBoost), Model Evaluation & Hyperparameter Tuning, Natural Language Processing & Prompt Engineering, Large Language Models (Mistral, Llama 2)
-
-**Tools & Platforms**: Scikit-learn & Jupyter Notebooks, Google Colab, AWS (S3, SageMaker, Boto3, SageMaker SDK), Hugging Face Hub & llama-cpp-python
+- **Programming & Data Manipulation**: Python, SQL, Pandas, NumPy
+- **Data Visualization & Reporting**: Tableau, Power BI, Excel (Pivot Tables, Charts), Matplotlib & Seaborn
+- **Statistical & Analytical Techniques:** Data Wrangling & Preprocessing, EDA, Feature Engineering, Regression Analysis & Hypothesis Testing, Missing Value Imputation
+- **Machine Learning & AI:** Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Ensemble Methods (Random Forest, XGBoost), Model Evaluation & Hyperparameter Tuning, Natural Language Processing & Prompt Engineering, Large Language Models (Mistral, Llama 2)
+- **Tools & Platforms**: Scikit-learn & Jupyter Notebooks, Google Colab, AWS (S3, SageMaker, Boto3, SageMaker SDK), Hugging Face Hub & llama-cpp-python
 
 
 ## 📌Table of Contents
