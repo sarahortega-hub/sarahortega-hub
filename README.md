@@ -1,7 +1,7 @@
 ## Hi, I'm Sarah 👋 
-I'm currently finishing a post-graduate program for Data Science and Business Analytics.
+I hold a Bachelor's in Biology and a post-graduate certification in Data Science and Business Analytics..
 
-Welcome to my portfolio where I showcase my projects.
+Welcome to my portfolio where I showcase my projects that apply analytical thinking, technical skills, and business insight to real-world challenges.
 
 - **Programming & Data Manipulation**: Python, SQL, Pandas, NumPy
 - **Data Visualization & Reporting**: Tableau, Power BI, Excel (Pivot Tables, Charts), Matplotlib & Seaborn
